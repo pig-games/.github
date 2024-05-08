@@ -5,6 +5,7 @@ P.I.G stands for Politically Incorrect Games, but don't worry if you're sensitiv
 P.I.G is currently a one man hobby project that focusses on developing retro games (and tools and sometimes even hardware) for the F256Jr/K New Retro Computers. Perhaps other developers will at some point join in on the fun.
 
 Current developments:
+* [C64OS Presenter](https://github.com/pig-games/C64OSPresenter): a simple presentation program for [C64OS](https://c64os.com).
 * [YAM3G](https://github.com/pig-games/yam3g): yet another match 3 game (in development).
 * Steam Punch: a Steam Punk fighting game, featuring giant steam driven mecha (design and concept fase).
 * Development tools:
