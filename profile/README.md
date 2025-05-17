@@ -12,5 +12,5 @@ Current developments:
   - [pngtotile](https://github.com/pig-games/pngtotile): a simple commandline for converting png images to bin files suitable for tiles, sprites or plain bitmaps.
 * [Custom F256Jr system case](https://github.com/pig-games/F256-Jr-System-Case) and RaspberryPi (or other SBC) Developer machine companion case.
 * [F256 Showcase](https://github.com/pig-games/F256Showcase): a demo/presentation framework for quick creation and playback of guess... demos/presentations.
-* [asm465](https://github.com/pig-games/asm465): ON HOLD: A native (on-device) Editor/Assembler for the F256Jr Retro computer
+* [asm465](https://github.com/pig-games/asm465): A native (on-device) Editor/Assembler for the (enhanced) C64 family computers
 * A joypad controller matching the F256Jr system case design.
