@@ -6,8 +6,10 @@ P.I.G is currently a one man hobby project that focusses on developing retro gam
 
 Current developments:
 * [C64OS Presenter](https://github.com/pig-games/C64OSPresenter): a simple presentation program for [C64OS](https://c64os.com).
-* [asm465](https://github.com/pig-games/asm465): A native (on-device) Editor/Assembler for the (enhanced) C64 family computers
 * [opForge](https://github.com/pig-games/opForge): Multi-target Assembler with expressions, directives, and preprocessor macros.
+* [opForge465](https://github.com/pig-games/opForge465): A native (on-device) Editor/Assembler for the (enhanced) C64 family computers
+* [opFoundry](https://github.com/pig-games/opFoundry): A cross-development GUI IDE for 65xx-based retro computers, featuring a built-in 6502 emulator, WebSocket bridge for tooling integration, and WASM support for browser-based development.
+* [opFoundryCore](https://github.com/pig-games/opFoundryCore): A reusable 6502 emulator core and runtime SDK for retro development tools.
 * [YAM3G](https://github.com/pig-games/yam3g): yet another match 3 game (in development).
 * Steam Punch: a Steam Punk fighting game, featuring giant steam driven mecha (design and concept fase).
 * Development tools:
